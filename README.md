@@ -17,7 +17,7 @@ Sebuah web app sederhana untuk **mengompres gambar langsung di browser**. Suppor
 - Pure JavaScript
 
 ## 🚀 Cara Pakai
-1. **Buka webnya**
+1. [**Buka webnya**](https://hamzah82.github.io/imageCompressor/)
 2. Drag & drop gambar atau klik area upload
 3. Tunggu proses kompresi
 4. Download hasilnya satu per satu atau langsung semuanya sekaligus
